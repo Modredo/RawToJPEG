@@ -1,4 +1,5 @@
-Simple conversion of RAW files to JPEG
+Simple conversion of RAW files to JPEG 
+added a resize option
 
 uses python3 
 listed requirements are simply what works for me today 
